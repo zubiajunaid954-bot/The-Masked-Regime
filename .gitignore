@@ -1,0 +1,62 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+Recordings/
+_Recovery/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archives and builds (publish builds as GitHub Releases instead)
+*.unitypackage
+*.rar
+*.zip
+*.apk
+*.aab
+*_BurstDebugInformation_DoNotShip/
+
+# Third-party packs and media are not redistributed (re-import from their publishers)
+/Assets/Abandoned World*
+/Assets/BTM_Assets*
+/Assets/Brackeys*
+/Assets/Hovl Studio*
+/Assets/RSG*
+/Assets/Rolling_Balls*
+/Assets/Stylized Stone*
+/Assets/Vefects*
+/Assets/VolumetricLines*
+/Assets/YughuesFreeMetalMaterials*
+/Assets/TextMesh Pro*
+/Assets/TutorialInfo*
+/Assets/character*
+/Assets/hehe*
+/Assets/extra*
+/Assets/*.mp3
+/Assets/*.wav
+/Assets/*.mp4
+/Assets/level*.fbx
+/Assets/ImageToStl.com_*
+/Assets/StarterAssets/*
+!/Assets/StarterAssets/ThirdPersonController/
+/Assets/StarterAssets/ThirdPersonController/*
+!/Assets/StarterAssets/ThirdPersonController/Scenes/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ee63f729d014f5640932927db1e16be9
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/LEVEL.unity
+    guid: 55bf942082cb92740a80d2671a354280
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/LostGame.unity
+    guid: ce8b0023e4ac3a5478c7586e6f0f81a2
+  - enabled: 1
+    path: Assets/Scenes/EscapeScene.unity
+    guid: 9b0447971c1a3814baffb726fee86d58
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: fc465f63fbd1a6c41bf8781387ca6490
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
