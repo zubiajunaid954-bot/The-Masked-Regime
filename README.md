@@ -19,7 +19,7 @@ of them reach the end point.
   for both of you.
 - Some hazards, like the pebbles, also **rewind** you: you are thrown back to where you were a few seconds ago, so you
   lose time as well as health.
-- Pick up a **mask** and the hurdles stop blocking you for about **6 seconds**.
+- Pick up a **mask** and the hurdles are temporarily disabled for about **6 seconds**.
 - The level is only completed when **both players reach the end point**. Help each other, because one finisher alone
   does not win.
 
